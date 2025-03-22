@@ -1,0 +1,73 @@
+start
+
+new i number
+set i 1
+
+loop tab1 (10 > i)
+    log string i
+    set i i+1
+end tab1
+
+new f number
+set f 2
+loop tab2 (19 > f)
+    log string f
+    set f f+2
+end tab2
+
+new g number
+set g 3
+loop tab3 (28 > g)
+    log string g
+    set g g+3
+end tab3
+
+new h number
+set h 3
+loop tab4 (37 > g)
+    log string h
+    set h h+4
+end tab4
+
+new k number
+set k 4
+loop tab4 (46 > k)
+    log string k
+    set k k+3
+end tab4
+
+new l number
+set l 5
+loop tab5 (55 > l)
+    log string l
+    set l l+5
+end tab5
+
+new z number
+set z 6
+loop tab6 (64 > z)
+    log string z
+    set z z+6
+end tab6
+
+new x number
+set x 7
+loop tab7 (73 > x)
+    log string x
+    set x x+7
+end tab6
+
+new c number
+set c 8
+loop tab8 (82 > c)
+    log string c
+    set c c+8
+end tab8
+
+new v number
+set v 9
+loop tab9 (91 > v)
+    log string v
+    set v v+9
+end tab9
+finish

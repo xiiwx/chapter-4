@@ -2,8 +2,10 @@ start
 
 new i number
 
+set i 0
+
 loop while (10 > i)
-	log string i
+    log string i
     set i i + 1
 end while
 

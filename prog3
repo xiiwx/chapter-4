@@ -1,0 +1,15 @@
+start 
+
+new i number 
+set i 2
+new x number
+
+
+loop while (6 > i)
+    set i i + 2
+end while
+
+set x i
+log number x
+
+finish
